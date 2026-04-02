@@ -1,4 +1,4 @@
-Tugas Laporan Praktikum : Modul 4 
+Tugas Laporan Praktikum : Modul 4 Enkapsulasi
 Deadline : Selasa, 7 April 2026, Pukul 23.59WIB
 
 Encapsulation
